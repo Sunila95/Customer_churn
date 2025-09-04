@@ -1,0 +1,501 @@
+CustomerID,Tenure,MonthlyCharges,Contract,InternetService,Churn
+1,49,55,Two year,Fiber optic,Yes
+2,43,54,Two year,No,No
+3,61,78,Month-to-Month,Fiber optic,Yes
+4,17,97,One year,No,No
+5,31,35,Two year,Fiber optic,Yes
+6,41,52,Two year,Fiber optic,No
+7,3,112,Two year,Fiber optic,Yes
+8,54,61,Month-to-Month,DSL,No
+9,53,40,Month-to-Month,No,No
+10,22,75,Month-to-Month,DSL,No
+11,8,65,Two year,No,No
+12,10,42,Month-to-Month,Fiber optic,Yes
+13,71,47,Two year,Fiber optic,No
+14,42,58,One year,DSL,No
+15,57,24,One year,Fiber optic,No
+16,10,64,Month-to-Month,Fiber optic,No
+17,29,111,One year,DSL,No
+18,30,110,Two year,No,No
+19,49,96,One year,Fiber optic,No
+20,9,59,Month-to-Month,DSL,No
+21,62,109,Two year,Fiber optic,No
+22,61,116,Two year,DSL,No
+23,57,99,Month-to-Month,No,No
+24,59,95,Two year,No,No
+25,42,87,Month-to-Month,DSL,Yes
+26,48,76,Month-to-Month,DSL,Yes
+27,46,90,Month-to-Month,Fiber optic,No
+28,25,47,Month-to-Month,DSL,No
+29,61,60,Two year,DSL,No
+30,1,69,Month-to-Month,Fiber optic,Yes
+31,43,34,One year,Fiber optic,Yes
+32,45,82,Two year,DSL,No
+33,59,39,Two year,DSL,Yes
+34,9,69,One year,DSL,No
+35,6,86,One year,Fiber optic,No
+36,54,116,Two year,DSL,Yes
+37,31,116,Month-to-Month,Fiber optic,No
+38,66,22,Month-to-Month,Fiber optic,No
+39,11,115,Month-to-Month,No,No
+40,54,93,Month-to-Month,DSL,No
+41,31,105,Two year,No,Yes
+42,68,65,One year,DSL,Yes
+43,40,55,Month-to-Month,No,No
+44,61,114,One year,No,Yes
+45,67,28,Two year,DSL,No
+46,47,61,One year,DSL,No
+47,28,25,One year,No,Yes
+48,62,44,One year,DSL,Yes
+49,39,84,One year,Fiber optic,Yes
+50,66,64,One year,Fiber optic,No
+51,65,89,One year,DSL,Yes
+52,19,93,Two year,Fiber optic,No
+53,25,34,Month-to-Month,Fiber optic,No
+54,7,57,One year,Fiber optic,No
+55,22,108,Month-to-Month,DSL,No
+56,63,23,One year,No,No
+57,20,114,Two year,No,Yes
+58,13,47,One year,DSL,No
+59,66,31,Two year,Fiber optic,No
+60,12,28,One year,No,No
+61,8,52,Month-to-Month,No,No
+62,3,35,Two year,Fiber optic,No
+63,19,110,One year,DSL,Yes
+64,67,113,One year,No,No
+65,41,21,Month-to-Month,Fiber optic,No
+66,54,77,Two year,No,No
+67,16,80,One year,DSL,Yes
+68,49,91,Two year,No,No
+69,44,61,Two year,DSL,Yes
+70,38,104,Two year,DSL,Yes
+71,45,74,One year,DSL,Yes
+72,20,119,One year,DSL,No
+73,12,69,Month-to-Month,DSL,Yes
+74,44,72,One year,DSL,No
+75,18,69,One year,No,Yes
+76,25,86,One year,Fiber optic,No
+77,29,37,Two year,No,Yes
+78,53,73,One year,DSL,No
+79,46,114,One year,No,No
+80,67,113,Two year,No,No
+81,42,118,Month-to-Month,Fiber optic,Yes
+82,25,46,Month-to-Month,DSL,Yes
+83,50,53,Month-to-Month,Fiber optic,Yes
+84,44,37,One year,No,No
+85,43,66,Month-to-Month,No,Yes
+86,71,57,Two year,No,No
+87,59,85,Two year,Fiber optic,Yes
+88,51,99,One year,Fiber optic,No
+89,23,30,One year,DSL,No
+90,53,48,Month-to-Month,No,No
+91,52,107,One year,DSL,Yes
+92,67,35,One year,DSL,No
+93,12,48,Month-to-Month,No,No
+94,24,86,One year,DSL,Yes
+95,3,104,Month-to-Month,DSL,Yes
+96,42,119,One year,DSL,No
+97,46,31,Two year,No,Yes
+98,30,38,Month-to-Month,DSL,No
+99,32,83,One year,DSL,No
+100,51,113,Month-to-Month,DSL,No
+101,14,63,One year,Fiber optic,No
+102,54,38,Month-to-Month,No,Yes
+103,43,22,Two year,No,No
+104,37,107,One year,DSL,No
+105,65,54,Month-to-Month,Fiber optic,No
+106,53,37,Two year,No,Yes
+107,22,113,Month-to-Month,No,Yes
+108,56,95,One year,Fiber optic,No
+109,1,71,Month-to-Month,DSL,Yes
+110,3,82,One year,DSL,No
+111,4,90,Two year,No,Yes
+112,53,115,Two year,Fiber optic,No
+113,55,114,One year,DSL,No
+114,6,108,Month-to-Month,No,Yes
+115,14,100,Two year,Fiber optic,Yes
+116,29,116,Month-to-Month,DSL,No
+117,20,29,One year,Fiber optic,No
+118,26,57,Month-to-Month,DSL,Yes
+119,38,113,One year,Fiber optic,No
+120,22,63,Month-to-Month,DSL,No
+121,39,94,Two year,DSL,Yes
+122,47,119,Month-to-Month,No,No
+123,14,49,Two year,Fiber optic,No
+124,9,88,One year,DSL,No
+125,31,44,Month-to-Month,Fiber optic,Yes
+126,56,63,One year,DSL,No
+127,66,65,Two year,DSL,No
+128,48,22,One year,No,No
+129,28,104,Month-to-Month,No,No
+130,9,22,One year,No,No
+131,70,57,Two year,Fiber optic,Yes
+132,18,28,Two year,Fiber optic,Yes
+133,21,34,Month-to-Month,DSL,No
+134,56,22,One year,No,Yes
+135,64,91,Month-to-Month,DSL,No
+136,38,95,Month-to-Month,No,Yes
+137,62,32,Month-to-Month,DSL,No
+138,56,41,Month-to-Month,DSL,No
+139,23,61,Two year,DSL,No
+140,36,79,Month-to-Month,Fiber optic,No
+141,32,63,Month-to-Month,Fiber optic,No
+142,3,57,Two year,Fiber optic,No
+143,15,106,Two year,DSL,No
+144,46,92,Month-to-Month,Fiber optic,Yes
+145,51,110,Month-to-Month,Fiber optic,Yes
+146,20,115,One year,DSL,No
+147,38,51,One year,Fiber optic,No
+148,20,73,Month-to-Month,Fiber optic,No
+149,3,100,One year,No,No
+150,47,58,Two year,DSL,No
+151,25,119,One year,Fiber optic,Yes
+152,70,24,Two year,Fiber optic,Yes
+153,3,54,Month-to-Month,Fiber optic,No
+154,8,53,Month-to-Month,No,No
+155,41,54,One year,Fiber optic,No
+156,66,46,Two year,DSL,No
+157,42,25,One year,No,No
+158,56,35,Month-to-Month,DSL,No
+159,35,113,One year,No,Yes
+160,65,21,One year,Fiber optic,Yes
+161,12,88,Month-to-Month,DSL,Yes
+162,15,71,Month-to-Month,DSL,No
+163,5,36,One year,DSL,No
+164,22,111,Two year,Fiber optic,Yes
+165,30,112,One year,Fiber optic,No
+166,4,54,Two year,DSL,No
+167,50,38,Two year,Fiber optic,No
+168,11,50,Two year,Fiber optic,No
+169,25,94,One year,DSL,No
+170,49,97,One year,No,No
+171,58,91,Two year,No,Yes
+172,69,27,Two year,No,Yes
+173,16,30,One year,No,No
+174,59,26,Two year,Fiber optic,No
+175,37,47,Two year,Fiber optic,Yes
+176,69,99,Two year,Fiber optic,Yes
+177,64,99,One year,No,No
+178,64,111,Month-to-Month,No,No
+179,9,88,Two year,No,No
+180,13,102,Two year,No,No
+181,43,63,One year,DSL,Yes
+182,49,79,One year,No,No
+183,41,26,One year,DSL,No
+184,6,119,Month-to-Month,DSL,No
+185,2,36,Two year,Fiber optic,No
+186,48,100,Two year,No,Yes
+187,55,87,Month-to-Month,DSL,No
+188,61,64,One year,DSL,No
+189,64,30,Two year,No,No
+190,40,100,Month-to-Month,No,No
+191,35,119,Two year,Fiber optic,No
+192,17,91,Two year,DSL,No
+193,2,57,One year,No,Yes
+194,38,55,One year,DSL,No
+195,23,33,Two year,DSL,Yes
+196,30,114,One year,No,No
+197,33,60,Month-to-Month,Fiber optic,No
+198,30,114,One year,DSL,No
+199,62,75,One year,DSL,No
+200,67,100,One year,Fiber optic,No
+201,30,73,One year,DSL,No
+202,35,98,Month-to-Month,Fiber optic,No
+203,53,68,Month-to-Month,Fiber optic,Yes
+204,53,24,Month-to-Month,Fiber optic,Yes
+205,68,110,Two year,Fiber optic,No
+206,64,50,One year,Fiber optic,Yes
+207,32,112,One year,No,No
+208,9,58,Two year,No,No
+209,48,49,One year,DSL,Yes
+210,48,94,Month-to-Month,DSL,Yes
+211,42,21,Month-to-Month,DSL,Yes
+212,26,104,Two year,DSL,No
+213,62,37,One year,No,No
+214,67,79,One year,DSL,No
+215,14,109,Two year,No,No
+216,14,47,One year,DSL,Yes
+217,20,56,One year,DSL,Yes
+218,62,72,Two year,No,Yes
+219,63,89,Month-to-Month,DSL,No
+220,52,69,Month-to-Month,Fiber optic,Yes
+221,2,84,One year,No,Yes
+222,27,23,Month-to-Month,No,No
+223,9,110,One year,DSL,No
+224,9,31,Month-to-Month,No,No
+225,14,60,One year,Fiber optic,No
+226,68,42,Month-to-Month,Fiber optic,No
+227,23,107,Two year,Fiber optic,No
+228,45,28,Two year,DSL,No
+229,1,65,Month-to-Month,DSL,Yes
+230,33,63,Two year,DSL,Yes
+231,35,76,Two year,Fiber optic,No
+232,64,34,One year,No,No
+233,28,24,Two year,DSL,No
+234,67,64,Month-to-Month,DSL,No
+235,50,62,Month-to-Month,No,Yes
+236,66,100,Month-to-Month,Fiber optic,Yes
+237,56,117,Two year,No,No
+238,31,31,Two year,No,No
+239,68,73,Two year,DSL,No
+240,61,105,One year,Fiber optic,Yes
+241,5,97,Month-to-Month,No,No
+242,18,109,Two year,No,No
+243,59,109,Two year,No,No
+244,30,112,Month-to-Month,No,Yes
+245,57,110,One year,Fiber optic,No
+246,24,102,One year,No,No
+247,47,117,One year,Fiber optic,No
+248,26,93,Month-to-Month,DSL,No
+249,22,110,Month-to-Month,No,No
+250,53,49,Month-to-Month,No,No
+251,15,108,Two year,No,Yes
+252,18,55,Two year,Fiber optic,No
+253,29,96,Month-to-Month,DSL,No
+254,10,110,Two year,DSL,Yes
+255,5,56,Two year,DSL,No
+256,54,114,One year,No,No
+257,68,109,One year,Fiber optic,No
+258,23,107,Month-to-Month,Fiber optic,Yes
+259,60,29,One year,Fiber optic,Yes
+260,55,104,Month-to-Month,No,Yes
+261,47,57,One year,DSL,No
+262,35,118,Two year,DSL,No
+263,12,80,One year,No,No
+264,2,48,One year,Fiber optic,No
+265,65,33,Month-to-Month,Fiber optic,No
+266,70,79,Month-to-Month,No,Yes
+267,46,39,Month-to-Month,No,Yes
+268,52,81,Two year,DSL,No
+269,64,49,Month-to-Month,DSL,Yes
+270,15,74,One year,DSL,Yes
+271,14,103,Two year,DSL,Yes
+272,8,68,One year,DSL,Yes
+273,69,77,One year,Fiber optic,No
+274,58,112,Two year,DSL,Yes
+275,71,33,Month-to-Month,No,No
+276,58,107,Month-to-Month,Fiber optic,No
+277,8,28,Two year,No,Yes
+278,56,112,One year,No,No
+279,17,25,Two year,DSL,No
+280,48,50,Month-to-Month,Fiber optic,No
+281,5,83,One year,DSL,Yes
+282,33,118,Two year,No,No
+283,47,71,Two year,DSL,No
+284,60,45,Month-to-Month,DSL,No
+285,13,47,Two year,DSL,No
+286,27,113,Two year,Fiber optic,Yes
+287,59,35,Two year,Fiber optic,Yes
+288,25,66,One year,Fiber optic,No
+289,60,57,Two year,No,No
+290,2,113,One year,Fiber optic,No
+291,43,87,Two year,DSL,No
+292,62,88,Two year,DSL,Yes
+293,63,54,Month-to-Month,DSL,No
+294,64,79,Two year,DSL,Yes
+295,59,65,Month-to-Month,Fiber optic,No
+296,52,115,Two year,No,No
+297,3,23,Month-to-Month,DSL,Yes
+298,7,64,Month-to-Month,DSL,No
+299,42,21,Month-to-Month,Fiber optic,No
+300,30,106,One year,DSL,Yes
+301,32,51,One year,No,No
+302,58,64,Two year,No,Yes
+303,35,77,One year,Fiber optic,Yes
+304,3,58,One year,DSL,No
+305,68,37,Two year,DSL,Yes
+306,71,92,One year,No,No
+307,5,25,One year,No,No
+308,47,87,Two year,No,Yes
+309,53,23,One year,Fiber optic,Yes
+310,26,25,Month-to-Month,Fiber optic,No
+311,21,66,One year,DSL,No
+312,19,77,One year,No,Yes
+313,57,106,One year,No,No
+314,2,81,Two year,No,No
+315,32,33,Month-to-Month,DSL,No
+316,15,53,One year,No,No
+317,14,40,One year,No,Yes
+318,64,94,Two year,Fiber optic,No
+319,46,88,One year,DSL,Yes
+320,58,51,Two year,Fiber optic,No
+321,61,58,Two year,DSL,No
+322,20,84,Month-to-Month,DSL,Yes
+323,9,112,Two year,DSL,No
+324,9,51,Two year,Fiber optic,No
+325,20,116,Two year,No,No
+326,26,39,Two year,No,No
+327,1,105,Two year,No,No
+328,18,98,Two year,Fiber optic,Yes
+329,28,57,Month-to-Month,DSL,Yes
+330,6,20,Month-to-Month,Fiber optic,No
+331,33,61,Two year,DSL,No
+332,11,63,One year,Fiber optic,No
+333,69,85,Month-to-Month,Fiber optic,No
+334,33,35,Two year,No,Yes
+335,14,53,One year,DSL,Yes
+336,50,20,Month-to-Month,DSL,No
+337,49,33,One year,No,No
+338,18,39,Month-to-Month,Fiber optic,Yes
+339,11,117,Two year,DSL,No
+340,12,41,Two year,DSL,No
+341,22,94,Two year,DSL,No
+342,63,64,Two year,DSL,No
+343,10,96,One year,DSL,Yes
+344,12,21,Month-to-Month,Fiber optic,No
+345,9,104,Month-to-Month,No,No
+346,34,115,One year,No,No
+347,71,88,One year,Fiber optic,No
+348,19,77,Two year,DSL,Yes
+349,3,57,Month-to-Month,DSL,No
+350,41,108,Two year,No,No
+351,12,82,One year,DSL,No
+352,3,48,Month-to-Month,DSL,No
+353,64,43,Two year,No,Yes
+354,27,111,One year,DSL,No
+355,15,50,Two year,DSL,No
+356,43,102,Month-to-Month,No,No
+357,54,104,Two year,No,Yes
+358,9,84,Month-to-Month,No,No
+359,64,90,Two year,No,No
+360,64,89,One year,DSL,Yes
+361,36,45,Month-to-Month,No,No
+362,18,52,Two year,No,Yes
+363,21,80,One year,No,Yes
+364,6,68,One year,DSL,Yes
+365,46,29,One year,DSL,No
+366,60,20,One year,No,No
+367,47,110,Month-to-Month,No,Yes
+368,19,94,Month-to-Month,Fiber optic,No
+369,50,55,Two year,Fiber optic,No
+370,18,104,One year,DSL,No
+371,67,80,Two year,No,No
+372,24,85,One year,Fiber optic,No
+373,68,77,Month-to-Month,DSL,Yes
+374,47,65,Two year,DSL,No
+375,52,83,One year,No,No
+376,62,111,One year,No,No
+377,59,41,Month-to-Month,No,Yes
+378,60,78,One year,No,No
+379,25,98,Two year,No,No
+380,15,95,Two year,DSL,Yes
+381,69,94,Month-to-Month,Fiber optic,Yes
+382,9,80,Month-to-Month,No,No
+383,4,44,One year,Fiber optic,No
+384,61,83,Two year,No,Yes
+385,23,91,Two year,DSL,No
+386,29,47,One year,DSL,No
+387,27,54,One year,Fiber optic,Yes
+388,50,58,One year,Fiber optic,Yes
+389,64,96,Two year,Fiber optic,No
+390,18,78,Month-to-Month,Fiber optic,Yes
+391,23,50,Two year,DSL,Yes
+392,4,90,One year,Fiber optic,No
+393,49,83,One year,Fiber optic,No
+394,24,20,One year,Fiber optic,No
+395,52,89,Month-to-Month,DSL,No
+396,53,51,Two year,Fiber optic,No
+397,10,47,Month-to-Month,Fiber optic,No
+398,45,67,Two year,DSL,No
+399,37,89,Two year,No,No
+400,12,114,Two year,Fiber optic,Yes
+401,50,52,Month-to-Month,No,No
+402,66,66,Month-to-Month,DSL,No
+403,61,103,Month-to-Month,Fiber optic,Yes
+404,54,25,Two year,DSL,No
+405,20,81,Month-to-Month,No,No
+406,5,89,One year,Fiber optic,Yes
+407,9,67,Month-to-Month,No,No
+408,30,50,One year,No,No
+409,62,115,One year,DSL,Yes
+410,14,60,Two year,DSL,No
+411,51,31,Two year,No,Yes
+412,18,20,One year,Fiber optic,No
+413,59,51,One year,DSL,Yes
+414,52,107,One year,DSL,No
+415,18,31,Two year,DSL,Yes
+416,3,39,Month-to-Month,No,No
+417,71,76,One year,Fiber optic,No
+418,43,26,Month-to-Month,No,Yes
+419,58,118,One year,No,No
+420,13,70,Two year,DSL,No
+421,71,62,One year,Fiber optic,No
+422,6,99,One year,Fiber optic,No
+423,69,72,Month-to-Month,Fiber optic,Yes
+424,15,88,One year,No,Yes
+425,8,92,Two year,DSL,No
+426,55,118,Two year,No,No
+427,56,106,Two year,DSL,No
+428,27,31,Month-to-Month,No,No
+429,69,87,One year,Fiber optic,No
+430,46,85,Month-to-Month,No,Yes
+431,38,101,Two year,DSL,No
+432,13,87,One year,No,No
+433,2,43,One year,No,No
+434,52,84,One year,DSL,No
+435,7,44,Two year,DSL,No
+436,55,65,One year,No,No
+437,64,55,One year,No,No
+438,41,47,Two year,Fiber optic,No
+439,12,101,Two year,DSL,No
+440,37,93,Month-to-Month,DSL,No
+441,10,99,One year,No,Yes
+442,46,71,Month-to-Month,DSL,Yes
+443,49,101,Month-to-Month,DSL,Yes
+444,44,97,Month-to-Month,Fiber optic,No
+445,37,44,Month-to-Month,Fiber optic,No
+446,49,28,One year,Fiber optic,No
+447,1,77,Month-to-Month,No,No
+448,65,103,Month-to-Month,No,Yes
+449,27,31,Month-to-Month,No,No
+450,39,59,One year,DSL,Yes
+451,56,71,Month-to-Month,Fiber optic,No
+452,59,31,Two year,DSL,No
+453,27,59,Month-to-Month,DSL,No
+454,10,101,Month-to-Month,Fiber optic,No
+455,47,36,One year,DSL,No
+456,58,64,Month-to-Month,No,Yes
+457,20,34,Month-to-Month,No,No
+458,25,109,Month-to-Month,No,No
+459,42,84,Two year,Fiber optic,No
+460,52,35,Month-to-Month,DSL,No
+461,35,115,Two year,Fiber optic,No
+462,30,90,Month-to-Month,Fiber optic,Yes
+463,2,95,One year,No,No
+464,37,99,Two year,DSL,Yes
+465,12,61,One year,Fiber optic,No
+466,40,33,One year,No,No
+467,39,68,Month-to-Month,DSL,No
+468,35,52,Month-to-Month,Fiber optic,No
+469,17,78,Month-to-Month,DSL,No
+470,32,109,One year,DSL,No
+471,17,106,One year,No,No
+472,60,51,Month-to-Month,Fiber optic,No
+473,65,108,One year,DSL,Yes
+474,33,52,Two year,DSL,No
+475,42,41,One year,No,No
+476,41,60,Month-to-Month,No,No
+477,47,84,One year,No,No
+478,27,110,One year,Fiber optic,Yes
+479,50,57,One year,No,No
+480,22,26,Two year,DSL,Yes
+481,57,48,Two year,No,No
+482,51,80,One year,DSL,No
+483,45,70,Two year,DSL,Yes
+484,6,110,Two year,Fiber optic,No
+485,52,118,One year,DSL,No
+486,1,92,One year,No,No
+487,11,56,Month-to-Month,DSL,No
+488,11,22,Month-to-Month,Fiber optic,Yes
+489,6,39,Two year,Fiber optic,No
+490,57,37,Month-to-Month,DSL,Yes
+491,68,98,One year,No,Yes
+492,58,119,One year,No,Yes
+493,27,66,Month-to-Month,Fiber optic,No
+494,27,24,One year,No,No
+495,49,22,Month-to-Month,No,Yes
+496,53,107,Two year,No,No
+497,58,74,Two year,DSL,Yes
+498,69,76,Month-to-Month,No,Yes
+499,67,23,Two year,No,Yes
+500,40,31,Month-to-Month,No,No
